@@ -19,7 +19,7 @@ import PackageDescription
 
 let package = Package(
   name: "GoogleTagManager",
-  platforms: [.iOS(.v12)],
+  platforms: [.iOS(.v15)],
   products: [
     .library(
       name: "GoogleTagManager",
